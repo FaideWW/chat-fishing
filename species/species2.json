@@ -1,0 +1,1695 @@
+[
+  {
+    "id": 0,
+    "key": "bluegill",
+    "name": "Bluegill",
+    "minSize": 10,
+    "maxSize": 23,
+    "sizeBias": 2.5,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "Lepomis macrochirus) (51759565204).jpg",
+      "author": "USFWS Mountain Prairie via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bluegill_(Lepomis_macrochirus)_(51759565204).jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 1,
+    "key": "pumpkinseed_sunfish",
+    "name": "Pumpkinseed Sunfish",
+    "minSize": 8,
+    "maxSize": 20,
+    "sizeBias": 2.5,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "Lepomis gibbosus - SERC.jpg",
+      "author": "Smithsonian Environmental Research Center via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lepomis_gibbosus_-_SERC.jpg",
+      "license": "CC-BY-2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 2,
+    "key": "yellow_perch",
+    "name": "Yellow Perch",
+    "minSize": 12,
+    "maxSize": 30,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "D3149-1. yellow perch (Perca flavescens).jpg",
+      "author": "Robert Colletta via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:D3149-1._yellow_perch_(Perca_flavescens).jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 3,
+    "key": "black_crappie",
+    "name": "Black Crappie",
+    "minSize": 15,
+    "maxSize": 30,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "Black Crappie (Pomoxis nigromaculatus) (53084649608).jpg",
+      "author": "USFWS Mountain Prairie via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_Crappie_(Pomoxis_nigromaculatus)_(53084649608).jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 4,
+    "key": "common_carp",
+    "name": "Common Carp",
+    "minSize": 30,
+    "maxSize": 70,
+    "sizeBias": 1.8,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "\"Mirror Carp\" (Cyprinus carpio) (51022632707).jpg",
+      "author": "USFWS Mountain Prairie via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%22Mirror_Carp%22_(Cyprinus_carpio)_(51022632707).jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 5,
+    "key": "largemouth_bass",
+    "name": "Largemouth Bass",
+    "minSize": 25,
+    "maxSize": 45,
+    "sizeBias": 1.8,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "Largemouth bass 01.jpg",
+      "author": "USFWS via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Largemouth_bass_01.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 6,
+    "key": "channel_catfish",
+    "name": "Channel Catfish",
+    "minSize": 30,
+    "maxSize": 60,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "Channel Catfish (Ictalurus punctatus) - 51759564924.jpg",
+      "author": "USFWS Mountain Prairie via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Channel_Catfish_(Ictalurus_punctatus)_-_51759564924.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 7,
+    "key": "brown_bullhead",
+    "name": "Brown Bullhead",
+    "minSize": 20,
+    "maxSize": 35,
+    "sizeBias": 2.3,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title"     : "Katzenwels.jpg",
+      "author"    : "Ken Hammond via Wikimedia Commons",
+      "sourceUrl" : "https://commons.wikimedia.org/wiki/File:Katzenwels.jpg",
+      "license"   : "Public Domain",
+      "licenseUrl": "",
+      "changes"   : "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 8,
+    "key": "market_squid",
+    "name": "Market Squid",
+    "minSize": 15,
+    "maxSize": 30,
+    "sizeBias": 2.4,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "Loligo opalescens.png",
+      "author": "NOAA FishWatch via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Loligo_opalescens.png",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 9,
+    "key": "white_sucker",
+    "name": "White Sucker",
+    "minSize": 20,
+    "maxSize": 40,
+    "sizeBias": 2.2,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "White sucker 01.jpg",
+      "author": "USFWS via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:White_sucker_01.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 10,
+    "key": "atlantic_mackerel",
+    "name": "Atlantic Mackerel",
+    "minSize": 25,
+    "maxSize": 40,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "Atl mackerel photo3 exp.jpg",
+      "author": "NOAA via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atl_mackerel_photo3_exp.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 11,
+    "key": "atlantic_herring",
+    "name": "Atlantic Herring",
+    "minSize": 20,
+    "maxSize": 35,
+    "sizeBias": 2.2,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "Clupea harengus 49562304.jpg",
+      "author": "Robert Blackmore via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Clupea_harengus_49562304.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 12,
+    "key": "sardine",
+    "name": "Sardine",
+    "minSize": 12,
+    "maxSize": 20,
+    "sizeBias": 2.8,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "Sardina pilchardus.jpg",
+      "author": "Etrusko25 via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sardina_pilchardus.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 13,
+    "key": "anchovy",
+    "name": "Anchovy",
+    "minSize": 8,
+    "maxSize": 15,
+    "sizeBias": 3.0,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "Anchovy closeup.jpg",
+      "author": "NOAA via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anchovy_closeup.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 14,
+    "key": "atlantic_silverside",
+    "name": "Atlantic Silverside",
+    "minSize": 6,
+    "maxSize": 15,
+    "sizeBias": 3.2,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "Menidia menidia RR 08-11-19 0545 (48555459552).jpg",
+      "author": "Smithsonian Environmental Research Center via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Menidia_menidia_RR_08-11-19_0545_(48555459552).jpg",
+      "license": "CC-BY-2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 15,
+    "key": "grey_mullet",
+    "name": "Grey Mullet",
+    "minSize": 20,
+    "maxSize": 40,
+    "sizeBias": 2.3,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "Chelon labrosus - Dicklippige Meeräsche 190840230.jpg",
+      "author": "Eric Tittley via Wikimedia Commons",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "changes": "Cropped/resized for game use",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chelon_labrosus_-_Dicklippige_Meer%C3%A4sche_190840230.jpg"
+    }
+  },
+  {
+    "id": 16,
+    "key": "whiting",
+    "name": "Whiting",
+    "minSize": 20,
+    "maxSize": 35,
+    "sizeBias": 2.2,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title"     : "Wijting002.jpg",
+      "author"    : "Georges Jansoone via Wikimedia Commons",
+      "sourceUrl" : "https://commons.wikimedia.org/wiki/File:Wijting002.jpg",
+      "license"   : "CC-BY-3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/deed.en",
+      "changes"   : "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 17,
+    "key": "rainbow_smelt",
+    "name": "Rainbow Smelt",
+    "minSize": 12,
+    "maxSize": 25,
+    "sizeBias": 2.5,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "Osmerus mordax 364847253.jpg",
+      "author": "Bex Goreham via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Osmerus_mordax_364847253.jpg",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 18,
+    "key": "summer_flounder_fluke",
+    "name": "Summer Flounder / Fluke",
+    "minSize": 30,
+    "maxSize": 50,
+    "sizeBias": 1.9,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "Summer flounder photo4.jpg",
+      "author": "NOAA via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Summer_flounder_photo4.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 19,
+    "key": "pollock",
+    "name": "Pollock",
+    "minSize": 35,
+    "maxSize": 65,
+    "sizeBias": 1.8,
+    "tags": [],
+    "rarity": "common",
+    "credits": {
+      "title": "Lieu jaune (Pollachius pollachius) (Ifremer 00528-63951 - 6906).jpg",
+      "author": "Stephane Lesbats via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lieu_jaune_(Pollachius_pollachius)_(Ifremer_00528-63951_-_6906).jpg",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 20,
+    "key": "walleye",
+    "name": "Walleye",
+    "minSize": 35,
+    "maxSize": 70,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title": "Sander vitreus) (2).jpg",
+      "author": "USFWS Mountain Prairie via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Walleye_(Sander_vitreus)_(2).jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 21,
+    "key": "northern_pike",
+    "name": "Northern Pike",
+    "minSize": 50,
+    "maxSize": 90,
+    "sizeBias": 1.9,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title": "Northern Pike at Umwelt Garten.jpg",
+      "author": "katdaned via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Northern_Pike_at_Umwelt_Garten.jpg",
+      "license": "CC-BY-2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 22,
+    "key": "smallmouth_bass",
+    "name": "Smallmouth Bass",
+    "minSize": 25,
+    "maxSize": 50,
+    "sizeBias": 1.9,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title": "Smallmouth Bass (Micropterus dolomieu).jpg",
+      "author": "USFWS Mountain Prairie via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Smallmouth_Bass_(Micropterus_dolomieu).jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 23,
+    "key": "brown_trout",
+    "name": "Brown Trout",
+    "minSize": 25,
+    "maxSize": 65,
+    "sizeBias": 2.1,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title"     : "Salmo trutta.jpg",
+      "author"    : "Eric Engbretson via Wikimedia Commons",
+      "sourceUrl" : "https://commons.wikimedia.org/wiki/File:Salmo_trutta.jpg",
+      "license"   : "Public Domain",
+      "licenseUrl": "",
+      "changes"   : "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 24,
+    "key": "brook_trout",
+    "name": "Brook Trout",
+    "minSize": 20,
+    "maxSize": 45,
+    "sizeBias": 2.2,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title": "Salvelinus fontinalis.jpg",
+      "author": "Eric Engbretson via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salvelinus_fontinalis.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 25,
+    "key": "lake_trout",
+    "name": "Lake Trout",
+    "minSize": 45,
+    "maxSize": 80,
+    "sizeBias": 1.8,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title": "Lake trout 01.jpg",
+      "author": "USFWS via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lake_trout_01.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 26,
+    "key": "cutthroat_trout",
+    "name": "Cutthroat Trout",
+    "minSize": 25,
+    "maxSize": 55,
+    "sizeBias": 2.1,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title": "Oncorhynchus clarkii virginalis.jpg",
+      "author": "Lloyde Hazzard via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oncorhynchus_clarkii_virginalis.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 27,
+    "key": "arctic_grayling",
+    "name": "Arctic Grayling",
+    "minSize": 25,
+    "maxSize": 45,
+    "sizeBias": 2.2,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title": "Arctic grayling (6312640818).jpg",
+      "author": "K.Sowl/2011 USFWS Alaska Fish Photo Contest via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arctic_grayling_(6312640818).jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 28,
+    "key": "longnose_gar",
+    "name": "Longnose Gar",
+    "minSize": 60,
+    "maxSize": 120,
+    "sizeBias": 1.7,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title": "Longnose Gar (Lepisosteus osseus) (53084345984).jpg",
+      "author": "USFWS Mountain Prairie via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Longnose_Gar_(Lepisosteus_osseus)_(53084345984).jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 29,
+    "key": "bowfin",
+    "name": "Bowfin",
+    "minSize": 45,
+    "maxSize": 75,
+    "sizeBias": 1.9,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title"     : "Bowfin 01.jpg",
+      "author"    : "USFWS via Wikimedia Commons",
+      "sourceUrl" : "https://commons.wikimedia.org/wiki/File:Bowfin_01.jpg",
+      "license"   : "Public Domain",
+      "licenseUrl": "",
+      "changes"   : "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 30,
+    "key": "striped_bass",
+    "name": "Striped Bass",
+    "minSize": 45,
+    "maxSize": 90,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title": "Morone saxatilis striped bass fish close up underwater high definiton image.jpg",
+      "author": "USFWS via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Morone_saxatilis_striped_bass_fish_close_up_underwater_high_definiton_image.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 31,
+    "key": "red_drum_redfish",
+    "name": "Red Drum / Redfish",
+    "minSize": 45,
+    "maxSize": 90,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title": "Sciaenops ocellatus (S0230) (12527956414).jpg",
+      "author": "Smithsonian Environmental Research Center via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sciaenops_ocellatus_(S0230)_(12527956414).jpg",
+      "license": "CC-BY-2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 32,
+    "key": "spotted_seatrout_speckled_trout",
+    "name": "Spotted Seatrout / Speckled Trout",
+    "minSize": 30,
+    "maxSize": 60,
+    "sizeBias": 2.1,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title": "Cynoscion nebulosus RR 07-29-20 0724 (50182954277).jpg",
+      "author": "Smithsonian Environmental Research Center via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cynoscion_nebulosus_RR_07-29-20_0724_(50182954277).jpg",
+      "license": "CC-BY-2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 33,
+    "key": "bluefish",
+    "name": "Bluefish",
+    "minSize": 30,
+    "maxSize": 75,
+    "sizeBias": 2.2,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title": "Pomatomus saltatrix - SERC.jpg",
+      "author": "Smithsonian Environmental Research Center via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pomatomus_saltatrix_-_SERC.jpg",
+      "license": "CC-BY-2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 34,
+    "key": "sheepshead",
+    "name": "Sheepshead",
+    "minSize": 30,
+    "maxSize": 55,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title"     : "Sheepshead.jpg",
+      "author"    : "NOAA via Wikimedia Commons",
+      "sourceUrl" : "https://commons.wikimedia.org/wiki/File:Sheepshead.jpg",
+      "license"   : "Public Domain",
+      "licenseUrl": "",
+      "changes"   : "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 35,
+    "key": "tautog_blackfish",
+    "name": "Tautog / Blackfish",
+    "minSize": 30,
+    "maxSize": 60,
+    "sizeBias": 2.1,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title": "Tautoga onitis 317997128.jpg",
+      "author": "geogesarma via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tautoga_onitis_317997128.jpg",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 36,
+    "key": "weakfish",
+    "name": "Weakfish",
+    "minSize": 30,
+    "maxSize": 60,
+    "sizeBias": 2.2,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title"     : "Cynot u3.jpg",
+      "author"    : "NOAA\\NMFS\\Mississippi Laboratory via Wikimedia Commons",
+      "sourceUrl" : "https://commons.wikimedia.org/wiki/File:Cynot_u3.jpg",
+      "license"   : "CC-BY-3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/deed.en",
+      "changes"   : "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 37,
+    "key": "black_sea_bass",
+    "name": "Black Sea Bass",
+    "minSize": 25,
+    "maxSize": 50,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title": "Black sea bass at Gray's Reef National Marine Sanctuary in Georgia.jpg",
+      "author": "NOAA National Ocean Service via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_sea_bass_at_Gray%27s_Reef_National_Marine_Sanctuary_in_Georgia.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 38,
+    "key": "spanish_mackerel",
+    "name": "Spanish Mackerel",
+    "minSize": 35,
+    "maxSize": 75,
+    "sizeBias": 1.9,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title": "Scomberomorus commerson Philippines.jpg",
+      "author": "ppericard via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Scomberomorus_commerson_Philippines.jpg",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 39,
+    "key": "common_snook",
+    "name": "Common Snook",
+    "minSize": 45,
+    "maxSize": 90,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "uncommon",
+    "credits": {
+      "title": "Snook Molasses Reef 1999.jpg",
+      "author": "jstuby via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snook_Molasses_Reef_1999.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 40,
+    "key": "swordfish",
+    "name": "Swordfish",
+    "minSize": 120,
+    "maxSize": 250,
+    "sizeBias": 1.7,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "Swordfish natural environment.jpg",
+      "author": "NOAA Deep Sea Coral Research via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Swordfish_natural_environment.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 41,
+    "key": "yellowfin_tuna",
+    "name": "Yellowfin Tuna",
+    "minSize": 80,
+    "maxSize": 180,
+    "sizeBias": 1.8,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "Banc de thons albacores (Thunnus albacares) (Ifremer 00568-68027 - 25196).jpg",
+      "author": "Marc Taquet via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Banc_de_thons_albacores_(Thunnus_albacares)_(Ifremer_00568-68027_-_25196).jpg",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 42,
+    "key": "albacore_tuna",
+    "name": "Albacore Tuna",
+    "minSize": 60,
+    "maxSize": 120,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "Thunnus alalunga.png",
+      "author": "NOAA FishWatch via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thunnus_alalunga.png",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 43,
+    "key": "mahi_mahi",
+    "name": "Mahi-Mahi (Dolphinfish)",
+    "minSize": 50,
+    "maxSize": 130,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "Coryphaena hippurus.png",
+      "author": "NOAA FishWatch via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coryphaena_hippurus.png",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 44,
+    "key": "wahoo",
+    "name": "Wahoo",
+    "minSize": 90,
+    "maxSize": 180,
+    "sizeBias": 1.8,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "Acanthocybium solandri Canary.jpg",
+      "author": "michael_bommerer via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Acanthocybium_solandri_Canary.jpg",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 45,
+    "key": "king_mackerel",
+    "name": "King Mackerel",
+    "minSize": 60,
+    "maxSize": 130,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "King mackerel ( Scomberomorus cavalla ).jpg",
+      "author": "NOAA's Fisheries Collection via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:King_mackerel_(_Scomberomorus_cavalla_).jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 46,
+    "key": "cobia",
+    "name": "Cobia",
+    "minSize": 70,
+    "maxSize": 140,
+    "sizeBias": 1.9,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "Rachycentron canadum Kaikyokan.jpg",
+      "author": "タウナギ via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rachycentron_canadum_Kaikyokan.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 47,
+    "key": "yellowtail_amberjack",
+    "name": "Yellowtail Amberjack",
+    "minSize": 60,
+    "maxSize": 120,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "Yellowtail amberjack.jpg",
+      "author": "brian gratwicke via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yellowtail_amberjack.jpg",
+      "license": "CC-BY-2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 48,
+    "key": "california_white_seabass",
+    "name": "California White Seabass",
+    "minSize": 70,
+    "maxSize": 120,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "Atractoscion nobilis mspc096.jpg",
+      "author": "California Department of Fish and Game via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atractoscion_nobilis_mspc096.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 49,
+    "key": "red_snapper",
+    "name": "Red Snapper",
+    "minSize": 45,
+    "maxSize": 90,
+    "sizeBias": 2.1,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "Red snapper 2.jpg",
+      "author": "NOAA FishWatch via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Red_snapper_2.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 50,
+    "key": "gag_grouper",
+    "name": "Gag Grouper",
+    "minSize": 55,
+    "maxSize": 110,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "MycteropercaMicrolepis.jpg",
+      "author": "NOAA via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:MycteropercaMicrolepis.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 51,
+    "key": "california_halibut",
+    "name": "California Halibut",
+    "minSize": 50,
+    "maxSize": 110,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title"     : "Big California Halibut",
+      "author"    : "Ed Bierman via Flickr",
+      "sourceUrl" : "https://www.flickr.com/photos/edbierman/7622490604",
+      "license"   : "CC-BY-2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "changes"   : "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 52,
+    "key": "dorade_gilt_head_bream",
+    "name": "Dorade / Gilt-head Bream",
+    "minSize": 30,
+    "maxSize": 60,
+    "sizeBias": 2.2,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "Sparus aurata Sardegna.jpg",
+      "author": "Roberto Pillon via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sparus_aurata_Sardegna.jpg",
+      "license": "CC-BY-3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 53,
+    "key": "great_barracuda",
+    "name": "Great Barracuda",
+    "minSize": 70,
+    "maxSize": 150,
+    "sizeBias": 1.9,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "Barracuda laban.jpg",
+      "author": "Laban712 via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Barracuda_laban.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 54,
+    "key": "blacktip_shark",
+    "name": "Blacktip Shark",
+    "minSize": 90,
+    "maxSize": 160,
+    "sizeBias": 1.9,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "Blacktip Reef Shark imported from iNaturalist photo 420767985 on 22 August 2024.jpg",
+      "author": "jeanpaulboerekamps via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blacktip_Reef_Shark_imported_from_iNaturalist_photo_420767985_on_22_August_2024.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 55,
+    "key": "spinner_shark",
+    "name": "Spinner Shark",
+    "minSize": 120,
+    "maxSize": 230,
+    "sizeBias": 1.8,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "Carcharhinus brevipinna.jpg",
+      "author": "National Marine Fisheries Service via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Carcharhinus_brevipinna.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 56,
+    "key": "moray_eel",
+    "name": "Moray Eel",
+    "minSize": 60,
+    "maxSize": 150,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "FKNMS Moray eel (50040738463).jpg",
+      "author": "National Marine Sanctuaries via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FKNMS_Moray_eel_(50040738463).jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 57,
+    "key": "conger_eel",
+    "name": "Conger Eel",
+    "minSize": 80,
+    "maxSize": 180,
+    "sizeBias": 1.9,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "Conger cinereus by NPS.jpg",
+      "author": "National Parks Service via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Conger_cinereus_by_NPS.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 58,
+    "key": "common_octopus",
+    "name": "Common Octopus",
+    "minSize": 30,
+    "maxSize": 90,
+    "sizeBias": 2.1,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "title": "Octopus at Kelly Tarlton's.jpg",
+      "author": "Pseudopanax via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Octopus_at_Kelly_Tarlton%27s.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 59,
+    "key": "japanese_flying_squid",
+    "name": "Japanese Flying Squid",
+    "minSize": 30,
+    "maxSize": 70,
+    "sizeBias": 2.2,
+    "tags": [],
+    "rarity": "rare",
+    "credits": {
+      "author": "DataBase Center for Life Science via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:202408_Japanese_flying_squid.svg",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "changes": "Cropped/resized for game use",
+      "title": "202408 Japanese flying squid.svg"
+    }
+  },
+  {
+    "id": 60,
+    "key": "great_white_shark",
+    "name": "Great White Shark",
+    "minSize": 300,
+    "maxSize": 600,
+    "sizeBias": 1.8,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Great white shark south africa.jpg",
+      "author": "Hermanus Backpackers via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_white_shark_south_africa.jpg",
+      "license": "CC-BY-2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 61,
+    "key": "hammerhead_shark",
+    "name": "Hammerhead Shark",
+    "minSize": 250,
+    "maxSize": 600,
+    "sizeBias": 1.8,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Great hammerhead georgia.jpg",
+      "author": "Jake Mohan via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great_hammerhead_georgia.jpg",
+      "license": "CC-BY-2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 62,
+    "key": "whale_shark",
+    "name": "Whale Shark",
+    "minSize": 600,
+    "maxSize": 1200,
+    "sizeBias": 1.6,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Rhincodon typus 452166632.jpg",
+      "author": "Jeremy Jones via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rhincodon_typus_452166632.jpg",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 63,
+    "key": "giant_squid",
+    "name": "Giant Squid",
+    "minSize": 600,
+    "maxSize": 1100,
+    "sizeBias": 1.7,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Architeuthis dux Emery Verrill.jpg",
+      "author": "Addison Emery Verrill via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Architeuthis_dux_Emery_Verrill.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 64,
+    "key": "coelacanth",
+    "name": "Coelacanth",
+    "minSize": 120,
+    "maxSize": 200,
+    "sizeBias": 1.9,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Coelacanth off Pumula on the KwaZulu-Natal South Coast, South Africa, on 22 November 2019.png",
+      "author": "Bruce A.S. Henderson via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coelacanth_off_Pumula_on_the_KwaZulu-Natal_South_Coast,_South_Africa,_on_22_November_2019.png",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 65,
+    "key": "giant_oarfish",
+    "name": "Giant Oarfish",
+    "minSize": 300,
+    "maxSize": 800,
+    "sizeBias": 1.7,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Giant Oarfish",
+      "author": "j4p4n via Openclipart",
+      "sourceUrl": "https://openclipart.org/detail/351368/giant-oarfish",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 66,
+    "key": "sloanes_viperfish",
+    "name": "Sloane's Viperfish",
+    "minSize": 20,
+    "maxSize": 35,
+    "sizeBias": 2.4,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Chauliodus sloani Gervais.jpg",
+      "author": "Gervais et Boulart via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chauliodus_sloani_Gervais.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 67,
+    "key": "humpback_anglerfish",
+    "name": "Humpback Anglerfish (Black Seadevil)",
+    "minSize": 15,
+    "maxSize": 30,
+    "sizeBias": 2.6,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Icone projet Abysses.jpg",
+      "author": "Elapied via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Icone_projet_Abysses.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 68,
+    "key": "giant_isopod",
+    "name": "Giant Isopod",
+    "minSize": 20,
+    "maxSize": 50,
+    "sizeBias": 2.2,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "MNHN-IU-2013-887).jpeg",
+      "author": "Museum national d'Histoire naturelle via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bathynomus_(MNHN-IU-2013-887).jpeg",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 69,
+    "key": "ocean_sunfish",
+    "name": "Ocean Sunfish (Mola mola)",
+    "minSize": 150,
+    "maxSize": 330,
+    "sizeBias": 1.9,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Nusa Lembongan Mola Mola.jpg",
+      "author": "Ilse Reijs and Jan-Noud Hutten via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nusa_Lembongan_Mola_Mola.jpg",
+      "license": "CC-BY-2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 70,
+    "key": "oceanic_manta_ray",
+    "name": "Oceanic Manta Ray",
+    "minSize": 350,
+    "maxSize": 700,
+    "sizeBias": 1.7,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "FGBNMS - manta ray (27094931405).jpg",
+      "author": "National Marine Sanctuaries via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FGBNMS_-_manta_ray_(27094931405).jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 71,
+    "key": "atlantic_bluefin_tuna",
+    "name": "Atlantic Bluefin Tuna",
+    "minSize": 150,
+    "maxSize": 300,
+    "sizeBias": 1.8,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Tuna ensnared.jpg",
+      "author": "NOAA via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tuna_ensnared.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 72,
+    "key": "blue_marlin",
+    "name": "Blue Marlin",
+    "minSize": 200,
+    "maxSize": 400,
+    "sizeBias": 1.8,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Blue marlin (Duane Raver).png",
+      "author": "USFWS via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Blue_marlin_(Duane_Raver).png",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 73,
+    "key": "goliath_grouper",
+    "name": "Goliath Grouper",
+    "minSize": 100,
+    "maxSize": 250,
+    "sizeBias": 1.9,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "FKNMS - Goliath Grouper With Remora (27094933605).jpg",
+      "author": "National Marine Sanctuaries via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:FKNMS_-_Goliath_Grouper_With_Remora_(27094933605).jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 74,
+    "key": "short_finned_pilot_whale",
+    "name": "Short-finned Pilot Whale",
+    "minSize": 300,
+    "maxSize": 700,
+    "sizeBias": 1.6,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Short-finned Pilot Whale (8793172995).jpg",
+      "author": "Curimedia via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Short-finned_Pilot_Whale_(8793172995).jpg",
+      "license": "CC-BY-2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 75,
+    "key": "beluga_whale",
+    "name": "Beluga Whale",
+    "minSize": 300,
+    "maxSize": 550,
+    "sizeBias": 1.7,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Delphinapterus leucas 16.jpg",
+      "author": "iwona_kellie via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Delphinapterus_leucas_16.jpg",
+      "license": "CC-BY-2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 76,
+    "key": "portuguese_man_o_war",
+    "name": "Portuguese Man o' War",
+    "minSize": 20,
+    "maxSize": 40,
+    "sizeBias": 2.8,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Portuguese Man-O-War (Physalia physalis).jpg",
+      "author": "NOAA via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portuguese_Man-O-War_(Physalia_physalis).jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 77,
+    "key": "red_lionfish",
+    "name": "Red Lionfish",
+    "minSize": 25,
+    "maxSize": 40,
+    "sizeBias": 2.3,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Common lion fish Pterois volitans.jpg",
+      "author": "Michael Gäbler via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Common_lion_fish_Pterois_volitans.jpg",
+      "license": "CC-BY-3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 78,
+    "key": "platinum_arowana",
+    "name": "Platinum Arowana",
+    "minSize": 60,
+    "maxSize": 90,
+    "sizeBias": 2.0,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Osteoglossum bicirrhosum).jpg",
+      "author": "Vaikoovery via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Arowana(Osteoglossum_bicirrhosum).jpg",
+      "license": "CC-BY-3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 79,
+    "key": "beluga_sturgeon",
+    "name": "Beluga Sturgeon",
+    "minSize": 150,
+    "maxSize": 450,
+    "sizeBias": 1.7,
+    "tags": [],
+    "rarity": "epic",
+    "credits": {
+      "title": "Huso huso viza.jpg",
+      "author": "Kókay Szabolcs via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huso_huso_viza.jpg",
+      "license": "Attribution Only",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:Attribution_only_license",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 80,
+    "key": "colossal_squid",
+    "name": "Colossal Squid",
+    "minSize": 800,
+    "maxSize": 1400,
+    "sizeBias": 1.6,
+    "tags": [],
+    "rarity": "legendary",
+    "credits": {
+      "title": "Mesonychoteuthis hamiltoni.jpg",
+      "author": "Rcidte via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mesonychoteuthis_hamiltoni.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 81,
+    "key": "sperm_whale",
+    "name": "Sperm Whale",
+    "minSize": 1100,
+    "maxSize": 1800,
+    "sizeBias": 1.5,
+    "tags": [],
+    "rarity": "legendary",
+    "credits": {
+      "title": "Physeter macrocephalus NOAA.jpg",
+      "author": "NOAA via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Physeter_macrocephalus_NOAA.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 82,
+    "key": "basking_shark",
+    "name": "Basking Shark",
+    "minSize": 600,
+    "maxSize": 1000,
+    "sizeBias": 1.6,
+    "tags": [],
+    "rarity": "legendary",
+    "credits": {
+      "title": "Cetorhinus maximus by greg skomal.JPG",
+      "author": "NOAA Fisheries Service via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cetorhinus_maximus_by_greg_skomal.JPG",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 83,
+    "key": "greenland_shark",
+    "name": "Greenland Shark",
+    "minSize": 300,
+    "maxSize": 700,
+    "sizeBias": 1.8,
+    "tags": [],
+    "rarity": "legendary",
+    "credits": {
+      "title": "Expl9984 (14318817140).jpg",
+      "author": "NOAA Photo Library via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Expl9984_(14318817140).jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 84,
+    "key": "black_marlin",
+    "name": "Black Marlin",
+    "minSize": 220,
+    "maxSize": 450,
+    "sizeBias": 1.8,
+    "tags": [],
+    "rarity": "legendary",
+    "credits": {
+      "title": "Black Marlin Artwork by Frank Olsen.jpg",
+      "author": "Queensland State Archives via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Black_Marlin_Artwork_by_Frank_Olsen.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 85,
+    "key": "largetooth_sawfish",
+    "name": "Largetooth Sawfish",
+    "minSize": 300,
+    "maxSize": 700,
+    "sizeBias": 1.7,
+    "tags": [],
+    "rarity": "legendary",
+    "credits": {
+      "title": "Pristis pristis townsville.jpg",
+      "author": "Simon Fraser University via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pristis_pristis_townsville.jpg",
+      "license": "CC-BY-2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 86,
+    "key": "giant_devil_ray",
+    "name": "Giant Devil Ray",
+    "minSize": 300,
+    "maxSize": 520,
+    "sizeBias": 1.7,
+    "tags": [],
+    "rarity": "legendary",
+    "credits": {
+      "title": "Mobula mobular 122443097.jpg",
+      "author": "Julien Renoult via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mobula_mobular_122443097.jpg",
+      "license": "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 87,
+    "key": "seven_arm_octopus",
+    "name": "Seven-Arm Octopus",
+    "minSize": 300,
+    "maxSize": 600,
+    "sizeBias": 1.9,
+    "tags": [],
+    "rarity": "legendary",
+    "credits": {
+      "title": "Haliphron atlanticus1.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use",
+      "author": "A.E Verrill via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haliphron_atlanticus1.jpg"
+    }
+  },
+  {
+    "id": 88,
+    "key": "nomuras_jellyfish",
+    "name": "Nomura's Jellyfish",
+    "minSize": 100,
+    "maxSize": 200,
+    "sizeBias": 2.2,
+    "tags": [],
+    "rarity": "legendary",
+    "credits": {
+      "title": "Nomura jellyfish 2009 Korea b.jpg",
+      "author": "Janne Hellsten via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nomura_jellyfish_2009_Korea_b.jpg",
+      "license": "CC-BY-2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/deed.en",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 89,
+    "key": "leviathan",
+    "name": "Leviathan",
+    "minSize": 2500,
+    "maxSize": 5000,
+    "sizeBias": 1.6,
+    "tags": [],
+    "rarity": "mythical",
+    "credits": {
+      "title": "Destruction of Leviathan.png",
+      "author": "Gustave Doré via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Destruction_of_Leviathan.png",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 90,
+    "key": "jormungandr",
+    "name": "Jörmungandr (World Serpent)",
+    "minSize": 3000,
+    "maxSize": 10000,
+    "sizeBias": 1.5,
+    "tags": [],
+    "rarity": "mythical",
+    "credits": {
+      "title"     : "Thor fishing (cropped).png",
+      "author"    : "Den Unge Herr Holm via Wikimedia Commons",
+      "sourceUrl" : "Thor fishing (cropped).png",
+      "license"   : "CC-BY-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/deed.en",
+      "changes"   : "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 91,
+    "key": "kraken",
+    "name": "Kraken",
+    "minSize": 1500,
+    "maxSize": 3000,
+    "sizeBias": 1.6,
+    "tags": [],
+    "rarity": "mythical",
+    "credits": {
+      "title": "Giant octopus attacks ship.jpg",
+      "author": "Edgar Etherington via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Giant_octopus_attacks_ship.jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 92,
+    "key": "dragon_carp",
+    "name": "Dragon Carp (Ryū no Koi)",
+    "minSize": 200,
+    "maxSize": 600,
+    "sizeBias": 1.8,
+    "tags": [],
+    "rarity": "mythical",
+    "credits": {
+      "title": "Koi carp. (52543544530).jpg",
+      "author": "Bernard Spragg via Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Koi_carp._(52543544530).jpg",
+      "license": "Public Domain",
+      "licenseUrl": "",
+      "changes": "Cropped/resized for game use"
+    }
+  },
+  {
+    "id": 93,
+    "key": "makara",
+    "name": "Makara",
+    "minSize": 600,
+    "maxSize": 1200,
+    "sizeBias": 1.7,
+    "tags": [],
+    "rarity": "mythical",
+    "credits": {
+      "title"     : "Varunadeva.jpg",
+      "author"    : "Los Angeles County Museum of Art via Wikimedia Commons",
+      "sourceUrl" : "https://en.wikipedia.org/wiki/File:Varunadeva.jpg",
+      "license"   : "Public Domain",
+      "licenseUrl": "",
+      "changes"   : "Cropped/resized for game use"
+    }
+  }
+]
+
